@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Dependencies",
+  "main": "main.js",
+  "scripts": {
+    "test": "This is a demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfmwak/hangman-node.git"
+  },
+  "author": "Tumpale Mwakasisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfmwak/hangman-node/issues"
+  },
+  "homepage": "https://github.com/tfmwak/hangman-node#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
